@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.nio</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>java_demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
+    <name>java_demo</name>
     <description>Demo project for nio</description>
 
     <properties>
